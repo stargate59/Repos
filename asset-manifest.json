@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Repos/Vic_projects/vtpdev/static/css/main.bab0b925.chunk.css",
-    "main.js": "/Repos/Vic_projects/vtpdev/static/js/main.91afe61f.chunk.js",
-    "main.js.map": "/Repos/Vic_projects/vtpdev/static/js/main.91afe61f.chunk.js.map",
-    "runtime-main.js": "/Repos/Vic_projects/vtpdev/static/js/runtime-main.a2e32601.js",
-    "runtime-main.js.map": "/Repos/Vic_projects/vtpdev/static/js/runtime-main.a2e32601.js.map",
-    "static/js/2.4611e6ea.chunk.js": "/Repos/Vic_projects/vtpdev/static/js/2.4611e6ea.chunk.js",
-    "static/js/2.4611e6ea.chunk.js.map": "/Repos/Vic_projects/vtpdev/static/js/2.4611e6ea.chunk.js.map",
-    "index.html": "/Repos/Vic_projects/vtpdev/index.html",
-    "static/css/main.bab0b925.chunk.css.map": "/Repos/Vic_projects/vtpdev/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.4611e6ea.chunk.js.LICENSE.txt": "/Repos/Vic_projects/vtpdev/static/js/2.4611e6ea.chunk.js.LICENSE.txt"
+    "main.css": "/vtpdev/static/css/main.bab0b925.chunk.css",
+    "main.js": "/vtpdev/static/js/main.559e65f8.chunk.js",
+    "main.js.map": "/vtpdev/static/js/main.559e65f8.chunk.js.map",
+    "runtime-main.js": "/vtpdev/static/js/runtime-main.446f47c6.js",
+    "runtime-main.js.map": "/vtpdev/static/js/runtime-main.446f47c6.js.map",
+    "static/js/2.4611e6ea.chunk.js": "/vtpdev/static/js/2.4611e6ea.chunk.js",
+    "static/js/2.4611e6ea.chunk.js.map": "/vtpdev/static/js/2.4611e6ea.chunk.js.map",
+    "index.html": "/vtpdev/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/vtpdev/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.4611e6ea.chunk.js.LICENSE.txt": "/vtpdev/static/js/2.4611e6ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2e32601.js",
+    "static/js/runtime-main.446f47c6.js",
     "static/js/2.4611e6ea.chunk.js",
     "static/css/main.bab0b925.chunk.css",
-    "static/js/main.91afe61f.chunk.js"
+    "static/js/main.559e65f8.chunk.js"
   ]
 }
