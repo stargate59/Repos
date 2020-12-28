@@ -83,14 +83,14 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"Android App",
+        "category":"WiPics Mobile, Photab, and Printstation",
         "image":"wipics-logo-new.jpg",
         "url":"http://www.unitedimagingsolutions.com"
       },
       {
-        "title":"Android App",
-        "category":"WiPics Mobile, Photab, and Prinstation",
+        "title":"Resume Website",
+        "category":"A React based resume website template",
         "image":"resume-website.jpg",
         "url":"http://www.vtpdev.com"
       }
