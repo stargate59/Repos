@@ -85,6 +85,12 @@
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
+        "image":"wipics-logo-new.jpg",
+        "url":"http://www.unitedimagingsolutions.com"
+      },
+      {
+        "title":"Android App",
+        "category":"WiPics Mobile, Photab, and Prinstation",
         "image":"resume-website.jpg",
         "url":"http://www.vtpdev.com"
       }
